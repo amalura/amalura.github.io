@@ -1,3 +1,3 @@
 # amalura.github.io
 
-A project of Victoria Hitsche and Max Roller - Mercado Libre Site.
+A project of Victoria Hitce and Max Roller - Mercado Libre Site.
